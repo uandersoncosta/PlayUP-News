@@ -1,0 +1,11 @@
+.content{
+  padding: 2rem;
+  background-color: rgb(236, 236, 236);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.content-image{
+  max-width: 100%;
+  margin-bottom: 1rem;
+}

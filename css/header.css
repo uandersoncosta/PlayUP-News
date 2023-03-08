@@ -1,0 +1,21 @@
+.nav img{
+  width: 70px;
+  margin-right: 2rem;
+}
+
+nav a{
+  text-decoration: none;
+  font-weight: 600;
+  color: var(--primary-color);
+  transition: all .2s;
+}
+
+nav a:hover{
+  background: var(--hover-color);
+  color: white;
+  border-radius: 5px;
+}
+
+.icons i {
+  cursor: pointer;
+}
